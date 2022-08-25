@@ -2,8 +2,8 @@
 #### I am GitHub Readme Generator's creator
 A curious software developer who believes that science and learning are endless, making learning fun, a good browser and analyzer explorer.
 
-- 🔭 I’m currently working on Artiffical Intallangance  
-- 🌱 I’m currently learning python ,oop ,cpp,open cv 
+- 🔭 I’m currently working on artificial intelligence  
+- 🌱 I’m currently learning python ,Oop ,Cpp,Open Cv 
 - 🤔 I’m looking for help with I have just started working in the field of artificial intelligence and I am progressing from the basic theoretical parts, you can help me in machine learning or you can help me write good artificial intelligence algorithms in python, I am also ready to listen to advice and development techniques in the field of software. 
 - 💬 Ask me about you can ask me about python ,cpp, javascript,angular ,node js 
 - 📫 How to reach me: doganneslihan437@gmail.com 

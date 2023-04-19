@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Neslihan
-#### I am GitHub Readme Generator's creator
+
 A curious software developer who believes that science and learning are endless, making learning fun, a good browser and analyzer explorer.
 
 - 🔭 I’m currently working on artificial intelligence  
